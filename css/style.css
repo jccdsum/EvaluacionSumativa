@@ -1,0 +1,18 @@
+
+.container{
+    background-color: rgb(175, 245, 161);
+    width: auto;
+    
+}
+
+.Subtitulo{
+    color:black;
+    
+}
+
+
+.PiePag{
+    color: rgba(0, 38, 255, 0.493);
+    font-size: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
